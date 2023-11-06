@@ -1,0 +1,60 @@
+Conceptos importantes:
+
+- Sitio Web: Un sitio web es una colección de páginas en Internet que contienen información estática y 
+recursos accesibles a través de un navegador web.
+
+- Aplicaciones Web: Las aplicaciones web son plataformas dinámicas e interactivas y sus funcionalidades 
+están en constante mantenimiento y mejora. Ej: Mercado Libre, Youtube, Gmail, plataforma de Coderhouse.
+
+- JavaScrip: Es un lenguaje de programación que se utiliza principalmente para aportar dinamismo a sitios web 
+y aplicaciones web. En conjunto con HTML y CSS podemos desarrollar aplicaciones web interactivas con el usuario.
+
+- Lenguaje Interpretado: JavaScrip es un lenguaje interpretado, esto quiere decir que se ejecuta por medio de un
+programa interprete. En nuestro caso los navegadores son los programas que se encargan de interpretar y ejecutar 
+el código de JavaScrip que creamos, estos navegadores se encargan de leer y ejecutar todos los archivos HTML, CSS y JS
+que conforman nuestra aplicación.
+
+- Diferencia entre Java y JavaScrip: Si bien es cierto que los nombres son similares, Java y JavaScrip no 
+tienen nada que ver, son dos lenguajes totalmente diferentes, alguna de las diferencias principales son:
+* Java es un lenguaje compilado y JavaScrip es un lenguaje interpretado.
+* Java es un lenguaje fuertemente tipado y JavaScript es un lenguaje débilmente tipado.
+* Java requiere una maquina virtual (JVM) para ser ejecutado y JavaScrip puede ser ejecutado con cualquier navegador.
+
+- Algoritmo: En programación, un algoritmo es un conjunto de procedimientos o funciones ordenados que se necesitan 
+para realizar cierta operación o acción. Por ejemplo, en una suma el algoritmo implica tomar un dato, 
+sumarlo a otro y obtener un resultado.
+Pensar en algoritmos es una práctica que debemos fortalecer como desarrolladores. Consiste en encarar un problema 
+complejo y dividir su resolución en diversos pasos, pensar cómo resolver cada uno y luego secuenciarlos correctamente 
+para llegar al resultado esperado. 
+
+- Frontend (lado del cliente): 
+* El frontend es la parte de una aplicación o sitio web con la que interactúa el usuario 
+directamente.
+* Incluye la interfaz de usuario, diseño, elementos visuales y experiencia de usuario.
+* Se desarrolla utilizando tecnologías como HTML, CSS y JavaScript.
+* Se ejecuta en el navegador web del usuario.
+
+- Backend (lado del servidor):
+* El backend es la parte oculta de una aplicación o sitio web que se encarga de procesar datos, lógica empresarial y 
+la interacción con la base de datos.
+* Gestiona la lógica del servidor y la comunicación con el frontend.
+* Se desarrolla utilizando lenguajes como Python, Java, PHP, Node.js entre otros y se ejecuta en un servidor.
+* Administra la seguridad, la autenticación, la gestión de datos y otros aspectos técnicos.
+
+- Node: Node.js es un entorno de ejecución de JavaScript, que le permite al código en js ser ejecutado en nuestra computadora.
+Podemos darle a node un archivo de js y éste puede ejecutarlo, y darle acceso a recursos de nuestra computadora.
+Url de descarga: https://nodejs.org/en  (Descargar e instalar la versión LTS).
+Comando de consola para verificar la instalación: node -v 
+
+- Npm: Cuando usamos Node.js, rápidamente tenemos que instalar módulos nuevos (librerías), ya que al ser un sistema fuertemente 
+modular viene prácticamente “vacío”. Por lo tanto, para utilizar una funcionalidad de alguna librería publicada, 
+deberemos instalar módulos adicionales. Esta operación se realiza de forma muy sencilla con la herramienta npm 
+(Node Package Manager).
+
+- Vite: es una herramienta de compilación que tiene como objetivo proporcionar una experiencia de desarrollo más rápida 
+y ágil para proyectos web modernos. 
+Es un entorno de desarrollo web moderno que se utiliza para crear aplicaciones web y proyectos de JavaScript. 
+Vite se ha vuelto popular en la comunidad de desarrollo web debido a su velocidad y eficiencia en la construcción 
+y desarrollo de aplicaciones.
+Url: https://vitejs.dev/
+Comando de consola para la creación de un proyecto: npm create vite
