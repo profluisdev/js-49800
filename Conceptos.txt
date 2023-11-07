@@ -6,17 +6,17 @@ recursos accesibles a través de un navegador web.
 - Aplicaciones Web: Las aplicaciones web son plataformas dinámicas e interactivas y sus funcionalidades 
 están en constante mantenimiento y mejora. Ej: Mercado Libre, Youtube, Gmail, plataforma de Coderhouse.
 
-- JavaScrip: Es un lenguaje de programación que se utiliza principalmente para aportar dinamismo a sitios web 
+- JavaScript: Es un lenguaje de programación que se utiliza principalmente para aportar dinamismo a sitios web 
 y aplicaciones web. En conjunto con HTML y CSS podemos desarrollar aplicaciones web interactivas con el usuario.
 
-- Lenguaje Interpretado: JavaScrip es un lenguaje interpretado, esto quiere decir que se ejecuta por medio de un
+- Lenguaje Interpretado: JavaScript es un lenguaje interpretado, esto quiere decir que se ejecuta por medio de un
 programa interprete. En nuestro caso los navegadores son los programas que se encargan de interpretar y ejecutar 
-el código de JavaScrip que creamos, estos navegadores se encargan de leer y ejecutar todos los archivos HTML, CSS y JS
+el código de JavaScript que creamos, estos navegadores se encargan de leer y ejecutar todos los archivos HTML, CSS y JS
 que conforman nuestra aplicación.
 
-- Diferencia entre Java y JavaScrip: Si bien es cierto que los nombres son similares, Java y JavaScrip no 
+- Diferencia entre Java y JavaScript: Si bien es cierto que los nombres son similares, Java y JavaScrip no 
 tienen nada que ver, son dos lenguajes totalmente diferentes, alguna de las diferencias principales son:
-* Java es un lenguaje compilado y JavaScrip es un lenguaje interpretado.
+* Java es un lenguaje compilado y JavaScript es un lenguaje interpretado.
 * Java es un lenguaje fuertemente tipado y JavaScript es un lenguaje débilmente tipado.
 * Java requiere una maquina virtual (JVM) para ser ejecutado y JavaScrip puede ser ejecutado con cualquier navegador.
 

@@ -716,6 +716,94 @@
       "originalText": "Archivo de configuración del proyecto, en el configuramos, el nombre del proyecto, versiones, scrips y dependencias",
       "lineHeight": 1.2,
       "baseline": 54
+    },
+    {
+      "id": "wE660RdS-AXmTcfvwfT6Q",
+      "type": "line",
+      "x": 258.7443648400351,
+      "y": 550.8803853974744,
+      "width": 68.3231947157118,
+      "height": 1.1212497287326642,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1826920226,
+      "version": 42,
+      "versionNonce": 1737330174,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1699320466207,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          68.3231947157118,
+          1.1212497287326642
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "Xo5VZ6peATf9XAxtezzCg",
+      "type": "line",
+      "x": 257.9727448313545,
+      "y": 619.5532437416583,
+      "width": 79.89729139539935,
+      "height": 1.892835828993043,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 889661118,
+      "version": 20,
+      "versionNonce": 36603810,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1699320477836,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          79.89729139539935,
+          1.892835828993043
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
     }
   ],
   "appState": {
