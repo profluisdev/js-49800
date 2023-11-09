@@ -14,11 +14,11 @@ programa interprete. En nuestro caso los navegadores son los programas que se en
 el código de JavaScript que creamos, estos navegadores se encargan de leer y ejecutar todos los archivos HTML, CSS y JS
 que conforman nuestra aplicación.
 
-- Diferencia entre Java y JavaScript: Si bien es cierto que los nombres son similares, Java y JavaScrip no 
+- Diferencia entre Java y JavaScript: Si bien es cierto que los nombres son similares, Java y JavaScript no 
 tienen nada que ver, son dos lenguajes totalmente diferentes, alguna de las diferencias principales son:
 * Java es un lenguaje compilado y JavaScript es un lenguaje interpretado.
 * Java es un lenguaje fuertemente tipado y JavaScript es un lenguaje débilmente tipado.
-* Java requiere una maquina virtual (JVM) para ser ejecutado y JavaScrip puede ser ejecutado con cualquier navegador.
+* Java requiere una maquina virtual (JVM) para ser ejecutado y JavaScript puede ser ejecutado con cualquier navegador.
 
 - Algoritmo: En programación, un algoritmo es un conjunto de procedimientos o funciones ordenados que se necesitan 
 para realizar cierta operación o acción. Por ejemplo, en una suma el algoritmo implica tomar un dato, 
@@ -58,3 +58,10 @@ Vite se ha vuelto popular en la comunidad de desarrollo web debido a su velocida
 y desarrollo de aplicaciones.
 Url: https://vitejs.dev/
 Comando de consola para la creación de un proyecto: npm create vite
+
+- Variables: Una variable es un espacio reservado en la memoria que, como su nombre indica, 
+puede cambiar de contenido a lo largo de la ejecución de un programa.
+En las variables almacenamos diversos tipos de datos que utilizamos en la aplicación.
+
+- Scope: se refiere al lugar donde nuestras variables se encuentran disponibles para su uso, 
+tenemos el Scope Global y el Scope Local.
