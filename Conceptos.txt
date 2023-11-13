@@ -65,3 +65,14 @@ En las variables almacenamos diversos tipos de datos que utilizamos en la aplica
 
 - Scope: se refiere al lugar donde nuestras variables se encuentran disponibles para su uso, 
 tenemos el Scope Global y el Scope Local.
+
+- Operador lógico: Los operadores lógicos en JavaScript son símbolos especiales que se utilizan 
+para realizar operaciones lógicas entre valores booleanos (verdadero o falso). Estos operadores 
+permiten combinar o comparar expresiones booleanas y determinar la verdad o falsedad de una 
+declaración compuesta.
+
+- El operador "&&" and: se utiliza para evaluar dos expresiones booleanas y devuelve "true" si ambas expresiones 
+son verdaderas. Si al menos una de las expresiones es falsa, el resultado será "false".
+
+- El operador "||" or: se utiliza para evaluar dos expresiones booleanas y devuelve "true" si al menos una de las 
+expresiones es verdadera. Solo devuelve "false" si ambas expresiones son falsas.
