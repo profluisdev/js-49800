@@ -76,3 +76,7 @@ son verdaderas. Si al menos una de las expresiones es falsa, el resultado será 
 
 - El operador "||" or: se utiliza para evaluar dos expresiones booleanas y devuelve "true" si al menos una de las 
 expresiones es verdadera. Solo devuelve "false" si ambas expresiones son falsas.
+
+- Ciclos: Los ciclos, también conocidos como bucles o iteraciones son un medio rápido y sencillo para hacer algo repetidamente.
+Si tenemos que hacer alguna operación más de una vez en el programa, de forma consecutiva, usaremos las estructuras de bucles 
+de JavaScript:  for, while o do...while.
