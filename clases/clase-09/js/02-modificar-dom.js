@@ -78,3 +78,11 @@ console.log("----- Modificación del DOM appendChild -----");
 
 contenedor3.appendChild(tituloContenedor3);
 contenedor3.appendChild(parrafoContenedor3);
+
+console.log("");
+console.log("----- Modificación del DOM remove -----");
+
+// El método remove() nos permite quitar elementos del DOM 
+
+subTitulo.remove();
+console.log(container);
