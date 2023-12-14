@@ -1,0 +1,52 @@
+Link de documentación oficial
+https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Events
+
+Link con Eventos
+https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=842:lista-de-eventos-javascript-on-click-dblclick-mouseover-mouseout-change-submit-keypress-cu01159e&catid=78&Itemid=206
+
+Listado de algunos eventos 
+
+Eventos de Mouse:
+- click: Se dispara cuando se hace clic en un elemento.
+- dblclick: Se dispara cuando se hace doble clic en un elemento.
+- mousedown: Se dispara cuando se presiona un botón del mouse sobre un elemento.
+- mouseup: Se dispara cuando se suelta un botón del mouse sobre un elemento.
+- mousemove: Se dispara cuando se mueve el mouse sobre un elemento.
+- mouseover: Se dispara cuando el puntero del mouse entra en un elemento.
+- mouseout: Se dispara cuando el puntero del mouse sale de un elemento.
+- contextmenu: Se dispara cuando se hace clic con el botón derecho del mouse.
+
+Eventos de Teclado:
+- keydown: Se dispara cuando una tecla del teclado se presiona.
+- keyup: Se dispara cuando una tecla del teclado se libera.
+- keypress: Se dispara cuando se mantiene presionada una tecla.
+- Eventos de Formulario:
+- submit: Se dispara cuando se envía un formulario.
+- reset: Se dispara cuando se reinicia un formulario.
+- change: Se dispara cuando el valor de un elemento de formulario cambia.
+- focus: Se dispara cuando un elemento recibe el foco.
+- blur: Se dispara cuando un elemento pierde el foco.
+- Eventos de Ventana:
+- load: Se dispara cuando se completa la carga de la página.
+- unload: Se dispara cuando la página está siendo descargada.
+- resize: Se dispara cuando la ventana cambia de tamaño.
+- scroll: Se dispara cuando la página se desplaza.
+
+Eventos de Documento:
+- DOMContentLoaded: Se dispara cuando el DOM ha sido completamente cargado y analizado.
+- readystatechange: Se dispara cuando cambia el estado de carga del documento.
+- Eventos de Animación y Transición CSS:
+- animationstart/animationend/animationiteration: Se dispara durante varias etapas de una animación CSS.
+- transitionend: Se dispara cuando una transición CSS ha completado.
+
+Eventos de Arrastre y Soltar:
+- dragstart/drag/dragend: Se dispara durante el proceso de arrastre y soltar.
+
+Eventos de Historial y Navegación:
+- hashchange: Se dispara cuando cambia el fragmento de URL después del símbolo de almohadilla (#).
+- popstate: Se dispara cuando cambia el historial de navegación.
+
+Otros Eventos:
+- error: Se dispara cuando se produce un error.
+- message: Se dispara cuando se recibe un mensaje del objeto Window o Worker.
+- offline/online: Se dispara cuando el navegador se desconecta o se vuelve a conectar a Internet.

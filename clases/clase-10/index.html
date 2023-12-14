@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
+    <title>Clase 10</title>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Clase-10: Eventos</h2>
+
+      
+      <button id="btnClick1" class="btn btn-warning">Click addEventListener</button>
+      <button id="btnClick2" class="btn btn-dark">Click onclick</button>
+      <button id="btnClick3" class="btn btn-info" onclick="eventoHtml()" >Click HTML Evento</button>
+
+      <hr />
+
+      <div id="box1" class="w-25 text-white text-center p-5 bg-danger m-3">Box 1</div>
+      <div id="box2" class="w-25 text-white text-center p-5 bg-warning m-3">Box 2</div>
+      <div id="box3" class="w-25 text-white text-center p-5 bg-primary m-3">Box 3</div>
+      <div>
+        <button id="btnRestar" class="btn btn-outline-dark">-</button>
+        <strong id="contador">0</strong>
+        <button id="btnSumar" class="btn btn-outline-dark">+</button>
+      </div>
+      <hr>
+      <div id="areaMensaje" >
+        <label >Nombre</label>
+        <input id="nombreUsuario" type="text" />
+        <label for="">Mensaje</label>
+        <input id="mensajeUsuario" type="text" />
+      </div>
+      <hr>
+      <form id="formulario">
+        <label for="">Nombre</label>
+        <input id="nombreInput" type="text" />
+        <label for="">Apellido</label>
+        <input id="apellidoInput" type="text" />
+        <button type="submit">Agregar</button>
+      </form>
+
+      <div>
+        <h4>Listado de Alumnos Desaprobados </h4>
+        <ul id="listaPersonas"></ul>
+      </div>
+
+      <a href="/"><button class="btn btn-primary mt-5">Volver</button></a>
+    </div>
+    
+    <!-- <script src="./js/01-definir-eventos.js"></script> -->
+    <!-- <script src="./js/02-mouse-eventos.js"></script> -->
+    <script src="./js/03-teclado-eventos.js"></script>
+  </body>
+</html>
