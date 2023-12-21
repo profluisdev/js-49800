@@ -59,9 +59,10 @@ const mostrarAlumnos = () => {
     listaPersonas.innerText = "";
 
     alumnos.forEach( alumno => {
+        const { nombre, apellido } = alumno;
         // Creo una etiqueta li por cada usuario del array
         let li = document.createElement("li");
-        li.innerText = `${alumno.nombre} ${alumno.apellido}`;
+        li.innerText = `${nombre} ${apellido}`;
         listaPersonas.appendChild(li);
     })
 }
