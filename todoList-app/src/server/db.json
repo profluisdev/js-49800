@@ -1,0 +1,28 @@
+{
+  "tareas": [
+    {
+      "id": "1aa04404-d85e-44a8-ae6f-4f33b81116a4",
+      "data": "otra cosa",
+      "realizado": false
+    },
+    {
+      "id": "b5e74b85-7dec-4929-96d5-608ec5d5cbc4",
+      "data": "pasear",
+      "realizado": false
+    },
+    {
+      "id": "fb6dcae6-6948-472e-812d-660d1eaa16be",
+      "data": "pasear",
+      "realizado": false
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "c2b84465-d103-4795-9f2e-964cd8c9ca53",
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "email": "jp@gmail.com",
+      "password": "123"
+    }
+  ]
+}

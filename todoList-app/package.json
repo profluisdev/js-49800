@@ -1,0 +1,20 @@
+{
+  "name": "todolist-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.21",
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "sweetalert2": "^11.10.2",
+    "toastify-js": "^1.12.0",
+    "uuid": "^9.0.1"
+  }
+}

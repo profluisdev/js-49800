@@ -1,0 +1,22 @@
+<div class="container">
+    <div class="row">
+        <div class="text-center">
+            <h1>TODO List</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <form id="formTarea" class="d-flex">
+                <input id="inputTarea" class="form-control" type="text" />
+                <input class="ms-3 btn btn-primary" type="submit" value="Agregar" />
+            </form>
+            <select class="form-select my-2" name="" id="filtroTareas">
+                <option value="todas">Todas</option>
+                <option value="realizadas">Realizadas</option>
+                <option value="noRealizadas">No Realizadas</option>
+            </select>
+        </div>
+    </div>
+    <!-- Listado de tareas -->
+    <div id="tareasContenedor"></div>
+</div>
